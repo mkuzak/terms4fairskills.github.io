@@ -29,7 +29,7 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
 Simon Hodson (CODATA, FR)  
-Mateusz Kuzak (DTL/ELIXIR-NL, NL)  
+Mateusz Kuzak (The Netherlands eScience Center/ELIXIR-NL, NL)  
 Yann Le Franc (e-Science Data Factory, FR)  
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Susanna-Assunta Sansone (FAIRsharing/Oxford, UK)  
